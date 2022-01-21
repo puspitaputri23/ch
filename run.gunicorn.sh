@@ -1,1 +1,1 @@
-gunicorn -b :5000 --access-logfile - --error-logfile - app:app
+gunicorn -b :3000 --access-logfile - --error-logfile - app:app
