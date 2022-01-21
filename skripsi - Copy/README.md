@@ -1,2 +1,0 @@
-# skripsi
-skripsi
