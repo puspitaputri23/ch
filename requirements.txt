@@ -1,7 +1,3 @@
 Flask
-passlib
-SQLAlchemy
-Werkzeug
 gunicorn
-gevent
-pickle-mixin
+scikit-learn
